@@ -1,0 +1,20 @@
+new CTRL+SHIFT+ALT+C
+code
+
+new ALT+Y
+start https://www.youtube.com
+
+new ALT+C
+start https://codeforces.com/problemset
+
+new ALT+SHIFT+P
+ping google.com
+
+new ALT+SHIFT+CTRL+J
+ping youtube.com
+
+new ALT+SHIFT+CTRL+I
+"C:\Users\youss\AppData\Local\Programs\IPTVSmartersPro\IPTVSmartersPro.exe"
+
+new CTRL+ALT+L
+"C:\Users\youss\Desktop\techstuff\MyShort\config.txt"
