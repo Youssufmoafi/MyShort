@@ -1,3 +1,5 @@
+MyShort is a C++ utility tool that maps keybinds to CLI commands via the windows API
+
 Myshort works by first reading the contents of the config.txt file then parsing it into usable C++ code.
 
 Important notes and instructions:
@@ -34,3 +36,4 @@ For example
 There is a built in shortcut to immediately terminate the program
 - To end the process press CTRL+SHIFT+BACKSPACE
   
+
